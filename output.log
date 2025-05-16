@@ -1,0 +1,482 @@
+{"timestamp": "2025-05-16T18:41:23Z", "level": "INFO", "message": "Smart building logger started."}
+{"timestamp": "2025-05-16T18:41:23Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 17.06C | CO2: 883ppm"}
+{"timestamp": "2025-05-16T18:41:25Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 17.42C | CO2: 463ppm"}
+{"timestamp": "2025-05-16T18:41:27Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 21.49C | CO2: 681ppm"}
+{"timestamp": "2025-05-16T18:41:29Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 17.91C | CO2: 894ppm"}
+{"timestamp": "2025-05-16T18:41:31Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 18.11C | CO2: 408ppm"}
+{"timestamp": "2025-05-16T18:41:33Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 21.66C | CO2: 437ppm"}
+{"timestamp": "2025-05-16T18:41:35Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 18.15C | CO2: 635ppm"}
+{"timestamp": "2025-05-16T18:41:37Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 16.61C | CO2: 985ppm"}
+{"timestamp": "2025-05-16T18:41:59Z", "level": "INFO", "message": "Smart building logger started."}
+{"timestamp": "2025-05-16T18:41:59Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 22.8C | CO2: 913ppm"}
+{"timestamp": "2025-05-16T18:42:01Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 16.21C | CO2: 560ppm"}
+{"timestamp": "2025-05-16T18:42:03Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 17.63C | CO2: 469ppm"}
+{"timestamp": "2025-05-16T18:42:05Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 18.21C | CO2: 749ppm"}
+{"timestamp": "2025-05-16T18:42:07Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 21.33C | CO2: 452ppm"}
+{"timestamp": "2025-05-16T18:42:09Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 19.5C | CO2: 1100ppm"}
+{"timestamp": "2025-05-16T18:42:09Z", "level": "WARNING", "message": "CO2 levels elevated in Lobby: 1100ppm"}
+{"timestamp": "2025-05-16T18:42:11Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 15.12C | CO2: 905ppm"}
+{"timestamp": "2025-05-16T18:42:13Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 15.25C | CO2: 474ppm"}
+{"timestamp": "2025-05-16T18:42:15Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 22.26C | CO2: 650ppm"}
+{"timestamp": "2025-05-16T18:42:17Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 21.28C | CO2: 595ppm"}
+{"timestamp": "2025-05-16T18:42:19Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 15.67C | CO2: 1096ppm"}
+{"timestamp": "2025-05-16T18:42:19Z", "level": "WARNING", "message": "CO2 levels elevated in Lab A: 1096ppm"}
+{"timestamp": "2025-05-16T18:42:19Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 18.56C | CO2: 655ppm"}
+{"timestamp": "2025-05-16T18:42:21Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 19.18C | CO2: 699ppm"}
+{"timestamp": "2025-05-16T18:42:23Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 22.89C | CO2: 1057ppm"}
+{"timestamp": "2025-05-16T18:42:23Z", "level": "WARNING", "message": "CO2 levels elevated in Conference Room: 1057ppm"}
+{"timestamp": "2025-05-16T18:42:25Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 15.47C | CO2: 666ppm"}
+{"timestamp": "2025-05-16T18:42:27Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 19.38C | CO2: 467ppm"}
+{"timestamp": "2025-05-16T18:42:29Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 21.48C | CO2: 849ppm"}
+{"timestamp": "2025-05-16T18:42:31Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 20.47C | CO2: 1061ppm"}
+{"timestamp": "2025-05-16T18:42:31Z", "level": "WARNING", "message": "CO2 levels elevated in Lobby: 1061ppm"}
+{"timestamp": "2025-05-16T18:42:33Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 17.56C | CO2: 797ppm"}
+{"timestamp": "2025-05-16T18:42:35Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 15.88C | CO2: 974ppm"}
+{"timestamp": "2025-05-16T18:42:37Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 21.76C | CO2: 432ppm"}
+{"timestamp": "2025-05-16T18:42:39Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 15.51C | CO2: 792ppm"}
+{"timestamp": "2025-05-16T18:42:41Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 21.26C | CO2: 722ppm"}
+{"timestamp": "2025-05-16T18:42:43Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 22.2C | CO2: 750ppm"}
+{"timestamp": "2025-05-16T18:42:45Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 18.13C | CO2: 952ppm"}
+{"timestamp": "2025-05-16T18:42:47Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 15.3C | CO2: 1028ppm"}
+{"timestamp": "2025-05-16T18:42:47Z", "level": "WARNING", "message": "CO2 levels elevated in Lab A: 1028ppm"}
+{"timestamp": "2025-05-16T18:42:47Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 21.82C | CO2: 811ppm"}
+{"timestamp": "2025-05-16T18:42:49Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 16.67C | CO2: 614ppm"}
+{"timestamp": "2025-05-16T18:42:51Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 17.13C | CO2: 485ppm"}
+{"timestamp": "2025-05-16T18:42:53Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 19.68C | CO2: 752ppm"}
+{"timestamp": "2025-05-16T18:42:55Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 20.59C | CO2: 458ppm"}
+{"timestamp": "2025-05-16T18:42:57Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 20.08C | CO2: 789ppm"}
+{"timestamp": "2025-05-16T18:42:59Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 16.93C | CO2: 707ppm"}
+{"timestamp": "2025-05-16T18:43:01Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 21.48C | CO2: 981ppm"}
+{"timestamp": "2025-05-16T18:43:03Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 21.45C | CO2: 770ppm"}
+{"timestamp": "2025-05-16T18:43:05Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 22.19C | CO2: 1182ppm"}
+{"timestamp": "2025-05-16T18:43:05Z", "level": "WARNING", "message": "CO2 levels elevated in Lab B: 1182ppm"}
+{"timestamp": "2025-05-16T18:43:07Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 16.21C | CO2: 848ppm"}
+{"timestamp": "2025-05-16T18:43:09Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 21.69C | CO2: 709ppm"}
+{"timestamp": "2025-05-16T18:43:11Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 15.89C | CO2: 570ppm"}
+{"timestamp": "2025-05-16T18:43:13Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 21.55C | CO2: 781ppm"}
+{"timestamp": "2025-05-16T18:43:15Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 15.35C | CO2: 1022ppm"}
+{"timestamp": "2025-05-16T18:43:15Z", "level": "WARNING", "message": "CO2 levels elevated in Conference Room: 1022ppm"}
+{"timestamp": "2025-05-16T18:43:16Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 21.57C | CO2: 526ppm"}
+{"timestamp": "2025-05-16T18:43:18Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 22.29C | CO2: 1135ppm"}
+{"timestamp": "2025-05-16T18:43:18Z", "level": "WARNING", "message": "CO2 levels elevated in Lobby: 1135ppm"}
+{"timestamp": "2025-05-16T18:43:20Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 22.0C | CO2: 651ppm"}
+{"timestamp": "2025-05-16T18:43:22Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 16.36C | CO2: 1050ppm"}
+{"timestamp": "2025-05-16T18:43:22Z", "level": "WARNING", "message": "CO2 levels elevated in Lab B: 1050ppm"}
+{"timestamp": "2025-05-16T18:43:24Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 15.03C | CO2: 980ppm"}
+{"timestamp": "2025-05-16T18:43:26Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 18.25C | CO2: 674ppm"}
+{"timestamp": "2025-05-16T18:43:28Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 20.1C | CO2: 458ppm"}
+{"timestamp": "2025-05-16T18:43:30Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 19.18C | CO2: 1162ppm"}
+{"timestamp": "2025-05-16T18:43:30Z", "level": "WARNING", "message": "CO2 levels elevated in Conference Room: 1162ppm"}
+{"timestamp": "2025-05-16T18:43:32Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 17.0C | CO2: 508ppm"}
+{"timestamp": "2025-05-16T18:43:34Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 22.45C | CO2: 628ppm"}
+{"timestamp": "2025-05-16T18:43:36Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 19.87C | CO2: 929ppm"}
+{"timestamp": "2025-05-16T18:43:38Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 17.97C | CO2: 767ppm"}
+{"timestamp": "2025-05-16T18:43:40Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 20.16C | CO2: 935ppm"}
+{"timestamp": "2025-05-16T18:43:42Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 17.99C | CO2: 874ppm"}
+{"timestamp": "2025-05-16T18:43:44Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 15.25C | CO2: 1159ppm"}
+{"timestamp": "2025-05-16T18:43:44Z", "level": "WARNING", "message": "CO2 levels elevated in Conference Room: 1159ppm"}
+{"timestamp": "2025-05-16T18:43:44Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 21.83C | CO2: 863ppm"}
+{"timestamp": "2025-05-16T18:43:46Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 16.08C | CO2: 576ppm"}
+{"timestamp": "2025-05-16T18:43:48Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 16.87C | CO2: 1063ppm"}
+{"timestamp": "2025-05-16T18:43:48Z", "level": "WARNING", "message": "CO2 levels elevated in Conference Room: 1063ppm"}
+{"timestamp": "2025-05-16T18:43:50Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 21.1C | CO2: 567ppm"}
+{"timestamp": "2025-05-16T18:43:52Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 21.19C | CO2: 492ppm"}
+{"timestamp": "2025-05-16T18:43:54Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 20.6C | CO2: 569ppm"}
+{"timestamp": "2025-05-16T18:43:56Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 19.38C | CO2: 1074ppm"}
+{"timestamp": "2025-05-16T18:43:56Z", "level": "WARNING", "message": "CO2 levels elevated in Conference Room: 1074ppm"}
+{"timestamp": "2025-05-16T18:43:58Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 16.48C | CO2: 607ppm"}
+{"timestamp": "2025-05-16T18:44:00Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 17.57C | CO2: 810ppm"}
+{"timestamp": "2025-05-16T18:44:02Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 19.46C | CO2: 837ppm"}
+{"timestamp": "2025-05-16T18:44:04Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 17.37C | CO2: 591ppm"}
+{"timestamp": "2025-05-16T18:44:06Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 21.26C | CO2: 611ppm"}
+{"timestamp": "2025-05-16T18:44:08Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 21.08C | CO2: 895ppm"}
+{"timestamp": "2025-05-16T18:44:10Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 16.2C | CO2: 1075ppm"}
+{"timestamp": "2025-05-16T18:44:10Z", "level": "WARNING", "message": "CO2 levels elevated in Lab B: 1075ppm"}
+{"timestamp": "2025-05-16T18:44:12Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 20.04C | CO2: 1114ppm"}
+{"timestamp": "2025-05-16T18:44:12Z", "level": "WARNING", "message": "CO2 levels elevated in Lab A: 1114ppm"}
+{"timestamp": "2025-05-16T18:44:12Z", "level": "ERROR", "message": "Sensor failure in Lab A: Random sensor malfunction detected.", "exc_info": "Traceback (most recent call last):\n  File \"/home/lwe16/project/smart_building_logger/main.py\", line 42, in log_sensor_data\n    raise ValueError(\"Random sensor malfunction detected.\")\nValueError: Random sensor malfunction detected."}
+{"timestamp": "2025-05-16T18:44:12Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 19.11C | CO2: 618ppm"}
+{"timestamp": "2025-05-16T18:44:14Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 21.65C | CO2: 441ppm"}
+{"timestamp": "2025-05-16T18:44:14Z", "level": "ERROR", "message": "Sensor failure in Conference Room: Random sensor malfunction detected.", "exc_info": "Traceback (most recent call last):\n  File \"/home/lwe16/project/smart_building_logger/main.py\", line 42, in log_sensor_data\n    raise ValueError(\"Random sensor malfunction detected.\")\nValueError: Random sensor malfunction detected."}
+{"timestamp": "2025-05-16T18:44:16Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 17.54C | CO2: 591ppm"}
+{"timestamp": "2025-05-16T18:44:18Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 20.5C | CO2: 469ppm"}
+{"timestamp": "2025-05-16T18:44:20Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 20.66C | CO2: 848ppm"}
+{"timestamp": "2025-05-16T18:44:22Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 15.46C | CO2: 1173ppm"}
+{"timestamp": "2025-05-16T18:44:22Z", "level": "WARNING", "message": "CO2 levels elevated in Lab A: 1173ppm"}
+{"timestamp": "2025-05-16T18:44:24Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 15.92C | CO2: 912ppm"}
+{"timestamp": "2025-05-16T18:44:26Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 17.8C | CO2: 1184ppm"}
+{"timestamp": "2025-05-16T18:44:26Z", "level": "WARNING", "message": "CO2 levels elevated in Lab B: 1184ppm"}
+{"timestamp": "2025-05-16T18:44:28Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 15.6C | CO2: 989ppm"}
+{"timestamp": "2025-05-16T18:44:30Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 16.46C | CO2: 713ppm"}
+{"timestamp": "2025-05-16T18:44:32Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 21.65C | CO2: 806ppm"}
+{"timestamp": "2025-05-16T18:44:34Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 22.66C | CO2: 560ppm"}
+{"timestamp": "2025-05-16T18:44:36Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 22.72C | CO2: 411ppm"}
+{"timestamp": "2025-05-16T18:44:38Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 15.4C | CO2: 1047ppm"}
+{"timestamp": "2025-05-16T18:44:38Z", "level": "WARNING", "message": "CO2 levels elevated in Lab A: 1047ppm"}
+{"timestamp": "2025-05-16T18:44:40Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 21.13C | CO2: 996ppm"}
+{"timestamp": "2025-05-16T18:44:41Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 18.65C | CO2: 1188ppm"}
+{"timestamp": "2025-05-16T18:44:41Z", "level": "WARNING", "message": "CO2 levels elevated in Conference Room: 1188ppm"}
+{"timestamp": "2025-05-16T18:44:43Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 16.35C | CO2: 593ppm"}
+{"timestamp": "2025-05-16T18:44:45Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 22.96C | CO2: 934ppm"}
+{"timestamp": "2025-05-16T18:44:47Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 15.27C | CO2: 676ppm"}
+{"timestamp": "2025-05-16T18:44:49Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 21.9C | CO2: 759ppm"}
+{"timestamp": "2025-05-16T18:44:51Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 17.69C | CO2: 849ppm"}
+{"timestamp": "2025-05-16T18:44:53Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 15.38C | CO2: 844ppm"}
+{"timestamp": "2025-05-16T18:44:55Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 16.44C | CO2: 692ppm"}
+{"timestamp": "2025-05-16T18:44:55Z", "level": "ERROR", "message": "Sensor failure in Lab A: Random sensor malfunction detected.", "exc_info": "Traceback (most recent call last):\n  File \"/home/lwe16/project/smart_building_logger/main.py\", line 42, in log_sensor_data\n    raise ValueError(\"Random sensor malfunction detected.\")\nValueError: Random sensor malfunction detected."}
+{"timestamp": "2025-05-16T18:44:57Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 21.25C | CO2: 459ppm"}
+{"timestamp": "2025-05-16T18:44:59Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 20.8C | CO2: 1017ppm"}
+{"timestamp": "2025-05-16T18:44:59Z", "level": "WARNING", "message": "CO2 levels elevated in Lobby: 1017ppm"}
+{"timestamp": "2025-05-16T18:45:01Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 16.33C | CO2: 1016ppm"}
+{"timestamp": "2025-05-16T18:45:01Z", "level": "WARNING", "message": "CO2 levels elevated in Lab B: 1016ppm"}
+{"timestamp": "2025-05-16T18:45:03Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 22.3C | CO2: 624ppm"}
+{"timestamp": "2025-05-16T18:45:05Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 20.63C | CO2: 887ppm"}
+{"timestamp": "2025-05-16T18:45:07Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 21.29C | CO2: 752ppm"}
+{"timestamp": "2025-05-16T18:45:09Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 22.19C | CO2: 953ppm"}
+{"timestamp": "2025-05-16T18:45:09Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 18.35C | CO2: 894ppm"}
+{"timestamp": "2025-05-16T18:45:11Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 16.73C | CO2: 1119ppm"}
+{"timestamp": "2025-05-16T18:45:11Z", "level": "WARNING", "message": "CO2 levels elevated in Conference Room: 1119ppm"}
+{"timestamp": "2025-05-16T18:45:13Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 22.98C | CO2: 841ppm"}
+{"timestamp": "2025-05-16T18:45:15Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 21.42C | CO2: 656ppm"}
+{"timestamp": "2025-05-16T18:46:07Z", "level": "INFO", "message": "Smart building logger started."}
+{"timestamp": "2025-05-16T18:46:07Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 19.54C | CO2: 516ppm"}
+{"timestamp": "2025-05-16T18:46:09Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 20.43C | CO2: 842ppm"}
+{"timestamp": "2025-05-16T18:46:11Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 20.47C | CO2: 1165ppm"}
+{"timestamp": "2025-05-16T18:46:11Z", "level": "WARNING", "message": "CO2 levels elevated in Lab B: 1165ppm"}
+{"timestamp": "2025-05-16T18:46:13Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 16.29C | CO2: 751ppm"}
+{"timestamp": "2025-05-16T18:46:13Z", "level": "DEBUG", "message": "Cache size: 4"}
+{"timestamp": "2025-05-16T18:46:13Z", "level": "ERROR", "message": "Sensor failure in Conference Room: Random sensor malfunction detected.", "exc_info": "Traceback (most recent call last):\n  File \"/home/lwe16/project/smart_building_logger/main.py\", line 43, in log_sensor_data\n    raise ValueError(\"Random sensor malfunction detected.\")\nValueError: Random sensor malfunction detected."}
+{"timestamp": "2025-05-16T18:46:15Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 15.24C | CO2: 578ppm"}
+{"timestamp": "2025-05-16T18:46:17Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 15.14C | CO2: 901ppm"}
+{"timestamp": "2025-05-16T18:46:19Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 16.02C | CO2: 941ppm"}
+{"timestamp": "2025-05-16T18:46:21Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 18.3C | CO2: 1084ppm"}
+{"timestamp": "2025-05-16T18:46:21Z", "level": "WARNING", "message": "CO2 levels elevated in Lab B: 1084ppm"}
+{"timestamp": "2025-05-16T18:46:23Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 16.07C | CO2: 1028ppm"}
+{"timestamp": "2025-05-16T18:46:23Z", "level": "WARNING", "message": "CO2 levels elevated in Lab A: 1028ppm"}
+{"timestamp": "2025-05-16T18:46:25Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 16.87C | CO2: 970ppm"}
+{"timestamp": "2025-05-16T18:46:27Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 19.86C | CO2: 487ppm"}
+{"timestamp": "2025-05-16T18:46:29Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 22.39C | CO2: 944ppm"}
+{"timestamp": "2025-05-16T18:46:31Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 17.05C | CO2: 615ppm"}
+{"timestamp": "2025-05-16T18:46:33Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 22.5C | CO2: 585ppm"}
+{"timestamp": "2025-05-16T18:46:33Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 20.67C | CO2: 535ppm"}
+{"timestamp": "2025-05-16T18:46:35Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 20.11C | CO2: 970ppm"}
+{"timestamp": "2025-05-16T18:46:37Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 20.0C | CO2: 493ppm"}
+{"timestamp": "2025-05-16T18:46:39Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 21.95C | CO2: 667ppm"}
+{"timestamp": "2025-05-16T18:46:41Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 17.31C | CO2: 723ppm"}
+{"timestamp": "2025-05-16T18:46:43Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 16.83C | CO2: 658ppm"}
+{"timestamp": "2025-05-16T18:46:45Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 16.14C | CO2: 661ppm"}
+{"timestamp": "2025-05-16T18:46:47Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 21.64C | CO2: 408ppm"}
+{"timestamp": "2025-05-16T18:46:49Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 15.41C | CO2: 657ppm"}
+{"timestamp": "2025-05-16T18:46:51Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 16.19C | CO2: 511ppm"}
+{"timestamp": "2025-05-16T18:46:53Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 18.15C | CO2: 463ppm"}
+{"timestamp": "2025-05-16T18:46:55Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 16.37C | CO2: 752ppm"}
+{"timestamp": "2025-05-16T18:46:57Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 21.68C | CO2: 1017ppm"}
+{"timestamp": "2025-05-16T18:46:57Z", "level": "WARNING", "message": "CO2 levels elevated in Lab B: 1017ppm"}
+{"timestamp": "2025-05-16T18:46:57Z", "level": "DEBUG", "message": "Cache size: 27"}
+{"timestamp": "2025-05-16T18:46:57Z", "level": "ERROR", "message": "Sensor failure in Lab B: Random sensor malfunction detected.", "exc_info": "Traceback (most recent call last):\n  File \"/home/lwe16/project/smart_building_logger/main.py\", line 43, in log_sensor_data\n    raise ValueError(\"Random sensor malfunction detected.\")\nValueError: Random sensor malfunction detected."}
+{"timestamp": "2025-05-16T18:46:59Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 19.07C | CO2: 577ppm"}
+{"timestamp": "2025-05-16T18:47:01Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 22.78C | CO2: 822ppm"}
+{"timestamp": "2025-05-16T18:47:01Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 16.42C | CO2: 773ppm"}
+{"timestamp": "2025-05-16T18:47:01Z", "level": "DEBUG", "message": "Cache size: 30"}
+{"timestamp": "2025-05-16T18:47:01Z", "level": "ERROR", "message": "Sensor failure in Conference Room: Random sensor malfunction detected.", "exc_info": "Traceback (most recent call last):\n  File \"/home/lwe16/project/smart_building_logger/main.py\", line 43, in log_sensor_data\n    raise ValueError(\"Random sensor malfunction detected.\")\nValueError: Random sensor malfunction detected."}
+{"timestamp": "2025-05-16T18:47:03Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 17.05C | CO2: 836ppm"}
+{"timestamp": "2025-05-16T18:47:05Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 19.51C | CO2: 535ppm"}
+{"timestamp": "2025-05-16T18:47:07Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 20.7C | CO2: 663ppm"}
+{"timestamp": "2025-05-16T18:47:09Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 15.71C | CO2: 1004ppm"}
+{"timestamp": "2025-05-16T18:47:09Z", "level": "WARNING", "message": "CO2 levels elevated in Lab B: 1004ppm"}
+{"timestamp": "2025-05-16T18:47:09Z", "level": "DEBUG", "message": "Cache size: 34"}
+{"timestamp": "2025-05-16T18:47:09Z", "level": "ERROR", "message": "Sensor failure in Lab B: Random sensor malfunction detected.", "exc_info": "Traceback (most recent call last):\n  File \"/home/lwe16/project/smart_building_logger/main.py\", line 43, in log_sensor_data\n    raise ValueError(\"Random sensor malfunction detected.\")\nValueError: Random sensor malfunction detected."}
+{"timestamp": "2025-05-16T18:47:11Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 17.17C | CO2: 658ppm"}
+{"timestamp": "2025-05-16T18:47:13Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 20.24C | CO2: 639ppm"}
+{"timestamp": "2025-05-16T18:47:15Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 15.75C | CO2: 589ppm"}
+{"timestamp": "2025-05-16T18:47:17Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 18.87C | CO2: 747ppm"}
+{"timestamp": "2025-05-16T18:47:19Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 21.02C | CO2: 1170ppm"}
+{"timestamp": "2025-05-16T18:47:19Z", "level": "WARNING", "message": "CO2 levels elevated in Lab A: 1170ppm"}
+{"timestamp": "2025-05-16T18:47:21Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 16.16C | CO2: 969ppm"}
+{"timestamp": "2025-05-16T18:47:23Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 16.47C | CO2: 1088ppm"}
+{"timestamp": "2025-05-16T18:47:23Z", "level": "WARNING", "message": "CO2 levels elevated in Lab A: 1088ppm"}
+{"timestamp": "2025-05-16T18:47:25Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 16.16C | CO2: 575ppm"}
+{"timestamp": "2025-05-16T18:47:27Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 15.45C | CO2: 1073ppm"}
+{"timestamp": "2025-05-16T18:47:27Z", "level": "WARNING", "message": "CO2 levels elevated in Lobby: 1073ppm"}
+{"timestamp": "2025-05-16T18:47:29Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 21.69C | CO2: 732ppm"}
+{"timestamp": "2025-05-16T18:47:30Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 22.86C | CO2: 793ppm"}
+{"timestamp": "2025-05-16T18:47:32Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 19.09C | CO2: 789ppm"}
+{"timestamp": "2025-05-16T18:47:34Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 15.66C | CO2: 890ppm"}
+{"timestamp": "2025-05-16T18:47:36Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 21.2C | CO2: 409ppm"}
+{"timestamp": "2025-05-16T18:47:38Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 15.14C | CO2: 1148ppm"}
+{"timestamp": "2025-05-16T18:47:38Z", "level": "WARNING", "message": "CO2 levels elevated in Conference Room: 1148ppm"}
+{"timestamp": "2025-05-16T18:47:40Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 15.98C | CO2: 444ppm"}
+{"timestamp": "2025-05-16T18:47:42Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 17.94C | CO2: 950ppm"}
+{"timestamp": "2025-05-16T18:47:44Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 21.98C | CO2: 792ppm"}
+{"timestamp": "2025-05-16T18:47:46Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 17.52C | CO2: 716ppm"}
+{"timestamp": "2025-05-16T18:47:48Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 19.0C | CO2: 450ppm"}
+{"timestamp": "2025-05-16T18:47:50Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 15.27C | CO2: 446ppm"}
+{"timestamp": "2025-05-16T18:47:52Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 15.91C | CO2: 429ppm"}
+{"timestamp": "2025-05-16T18:47:54Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 15.33C | CO2: 687ppm"}
+{"timestamp": "2025-05-16T18:47:56Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 19.96C | CO2: 614ppm"}
+{"timestamp": "2025-05-16T18:47:58Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 20.91C | CO2: 759ppm"}
+{"timestamp": "2025-05-16T18:47:58Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 22.21C | CO2: 823ppm"}
+{"timestamp": "2025-05-16T18:48:00Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 17.94C | CO2: 877ppm"}
+{"timestamp": "2025-05-16T18:48:02Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 17.92C | CO2: 880ppm"}
+{"timestamp": "2025-05-16T18:48:04Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 17.17C | CO2: 520ppm"}
+{"timestamp": "2025-05-16T18:48:06Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 16.42C | CO2: 785ppm"}
+{"timestamp": "2025-05-16T18:48:08Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 16.6C | CO2: 722ppm"}
+{"timestamp": "2025-05-16T18:48:10Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 15.48C | CO2: 1113ppm"}
+{"timestamp": "2025-05-16T18:48:10Z", "level": "WARNING", "message": "CO2 levels elevated in Lobby: 1113ppm"}
+{"timestamp": "2025-05-16T18:48:12Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 15.43C | CO2: 1053ppm"}
+{"timestamp": "2025-05-16T18:48:12Z", "level": "WARNING", "message": "CO2 levels elevated in Lab B: 1053ppm"}
+{"timestamp": "2025-05-16T18:48:14Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 15.19C | CO2: 1105ppm"}
+{"timestamp": "2025-05-16T18:48:14Z", "level": "WARNING", "message": "CO2 levels elevated in Lab B: 1105ppm"}
+{"timestamp": "2025-05-16T18:48:16Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 16.14C | CO2: 815ppm"}
+{"timestamp": "2025-05-16T18:48:18Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 20.92C | CO2: 1125ppm"}
+{"timestamp": "2025-05-16T18:48:18Z", "level": "WARNING", "message": "CO2 levels elevated in Lab A: 1125ppm"}
+{"timestamp": "2025-05-16T18:48:20Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 21.15C | CO2: 434ppm"}
+{"timestamp": "2025-05-16T18:48:22Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 15.02C | CO2: 861ppm"}
+{"timestamp": "2025-05-16T18:48:24Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 16.88C | CO2: 764ppm"}
+{"timestamp": "2025-05-16T18:48:26Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 15.71C | CO2: 533ppm"}
+{"timestamp": "2025-05-16T18:48:26Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 21.93C | CO2: 467ppm"}
+{"timestamp": "2025-05-16T18:48:28Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 19.26C | CO2: 1084ppm"}
+{"timestamp": "2025-05-16T18:48:28Z", "level": "WARNING", "message": "CO2 levels elevated in Lab B: 1084ppm"}
+{"timestamp": "2025-05-16T18:48:30Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 15.43C | CO2: 1067ppm"}
+{"timestamp": "2025-05-16T18:48:30Z", "level": "WARNING", "message": "CO2 levels elevated in Lobby: 1067ppm"}
+{"timestamp": "2025-05-16T18:48:32Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 22.9C | CO2: 860ppm"}
+{"timestamp": "2025-05-16T18:48:34Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 21.08C | CO2: 801ppm"}
+{"timestamp": "2025-05-16T18:48:36Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 21.87C | CO2: 733ppm"}
+{"timestamp": "2025-05-16T18:48:38Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 17.77C | CO2: 420ppm"}
+{"timestamp": "2025-05-16T18:48:40Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 19.84C | CO2: 860ppm"}
+{"timestamp": "2025-05-16T18:48:42Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 21.84C | CO2: 891ppm"}
+{"timestamp": "2025-05-16T18:48:44Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 17.4C | CO2: 1043ppm"}
+{"timestamp": "2025-05-16T18:48:44Z", "level": "WARNING", "message": "CO2 levels elevated in Lobby: 1043ppm"}
+{"timestamp": "2025-05-16T18:48:46Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 19.77C | CO2: 653ppm"}
+{"timestamp": "2025-05-16T18:48:46Z", "level": "DEBUG", "message": "Cache size: 85"}
+{"timestamp": "2025-05-16T18:48:46Z", "level": "ERROR", "message": "Sensor failure in Conference Room: Random sensor malfunction detected.", "exc_info": "Traceback (most recent call last):\n  File \"/home/lwe16/project/smart_building_logger/main.py\", line 43, in log_sensor_data\n    raise ValueError(\"Random sensor malfunction detected.\")\nValueError: Random sensor malfunction detected."}
+{"timestamp": "2025-05-16T18:48:48Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 17.26C | CO2: 1071ppm"}
+{"timestamp": "2025-05-16T18:48:48Z", "level": "WARNING", "message": "CO2 levels elevated in Lab B: 1071ppm"}
+{"timestamp": "2025-05-16T18:48:50Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 15.35C | CO2: 863ppm"}
+{"timestamp": "2025-05-16T18:48:52Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 15.85C | CO2: 1139ppm"}
+{"timestamp": "2025-05-16T18:48:52Z", "level": "WARNING", "message": "CO2 levels elevated in Lab A: 1139ppm"}
+{"timestamp": "2025-05-16T18:48:54Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 21.01C | CO2: 742ppm"}
+{"timestamp": "2025-05-16T18:48:55Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 15.25C | CO2: 1020ppm"}
+{"timestamp": "2025-05-16T18:48:55Z", "level": "WARNING", "message": "CO2 levels elevated in Lobby: 1020ppm"}
+{"timestamp": "2025-05-16T18:48:57Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 17.01C | CO2: 1168ppm"}
+{"timestamp": "2025-05-16T18:48:57Z", "level": "WARNING", "message": "CO2 levels elevated in Lab A: 1168ppm"}
+{"timestamp": "2025-05-16T18:48:59Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 21.06C | CO2: 965ppm"}
+{"timestamp": "2025-05-16T18:49:01Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 22.87C | CO2: 1192ppm"}
+{"timestamp": "2025-05-16T18:49:01Z", "level": "WARNING", "message": "CO2 levels elevated in Lab A: 1192ppm"}
+{"timestamp": "2025-05-16T18:49:03Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 20.42C | CO2: 1014ppm"}
+{"timestamp": "2025-05-16T18:49:03Z", "level": "WARNING", "message": "CO2 levels elevated in Lab A: 1014ppm"}
+{"timestamp": "2025-05-16T18:49:05Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 16.6C | CO2: 674ppm"}
+{"timestamp": "2025-05-16T18:49:07Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 17.73C | CO2: 952ppm"}
+{"timestamp": "2025-05-16T18:49:09Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 16.37C | CO2: 1065ppm"}
+{"timestamp": "2025-05-16T18:49:09Z", "level": "WARNING", "message": "CO2 levels elevated in Conference Room: 1065ppm"}
+{"timestamp": "2025-05-16T18:49:11Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 16.06C | CO2: 456ppm"}
+{"timestamp": "2025-05-16T18:49:13Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 22.26C | CO2: 543ppm"}
+{"timestamp": "2025-05-16T18:49:15Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 19.56C | CO2: 802ppm"}
+{"timestamp": "2025-05-16T18:49:15Z", "level": "DEBUG", "message": "Cache size: 100"}
+{"timestamp": "2025-05-16T18:49:15Z", "level": "ERROR", "message": "Sensor failure in Lab A: Random sensor malfunction detected.", "exc_info": "Traceback (most recent call last):\n  File \"/home/lwe16/project/smart_building_logger/main.py\", line 43, in log_sensor_data\n    raise ValueError(\"Random sensor malfunction detected.\")\nValueError: Random sensor malfunction detected."}
+{"timestamp": "2025-05-16T18:49:17Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 22.4C | CO2: 729ppm"}
+{"timestamp": "2025-05-16T18:49:19Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 19.13C | CO2: 444ppm"}
+{"timestamp": "2025-05-16T18:49:21Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 17.3C | CO2: 512ppm"}
+{"timestamp": "2025-05-16T18:49:23Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 16.4C | CO2: 736ppm"}
+{"timestamp": "2025-05-16T18:49:23Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 19.23C | CO2: 867ppm"}
+{"timestamp": "2025-05-16T18:49:25Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 15.76C | CO2: 1070ppm"}
+{"timestamp": "2025-05-16T18:49:25Z", "level": "WARNING", "message": "CO2 levels elevated in Lab B: 1070ppm"}
+{"timestamp": "2025-05-16T18:49:27Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 22.05C | CO2: 1182ppm"}
+{"timestamp": "2025-05-16T18:49:27Z", "level": "WARNING", "message": "CO2 levels elevated in Lobby: 1182ppm"}
+{"timestamp": "2025-05-16T18:49:29Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 17.51C | CO2: 425ppm"}
+{"timestamp": "2025-05-16T18:49:31Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 22.38C | CO2: 496ppm"}
+{"timestamp": "2025-05-16T18:49:33Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 16.64C | CO2: 405ppm"}
+{"timestamp": "2025-05-16T18:49:35Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 20.01C | CO2: 806ppm"}
+{"timestamp": "2025-05-16T18:49:37Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 16.7C | CO2: 757ppm"}
+{"timestamp": "2025-05-16T18:49:39Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 22.52C | CO2: 489ppm"}
+{"timestamp": "2025-05-16T18:49:41Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 16.61C | CO2: 1179ppm"}
+{"timestamp": "2025-05-16T18:49:41Z", "level": "WARNING", "message": "CO2 levels elevated in Conference Room: 1179ppm"}
+{"timestamp": "2025-05-16T18:49:43Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 15.13C | CO2: 963ppm"}
+{"timestamp": "2025-05-16T18:49:45Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 22.5C | CO2: 792ppm"}
+{"timestamp": "2025-05-16T18:49:47Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 21.69C | CO2: 878ppm"}
+{"timestamp": "2025-05-16T18:49:49Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 19.04C | CO2: 869ppm"}
+{"timestamp": "2025-05-16T18:49:51Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 19.21C | CO2: 485ppm"}
+{"timestamp": "2025-05-16T18:49:51Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 16.44C | CO2: 1152ppm"}
+{"timestamp": "2025-05-16T18:49:51Z", "level": "WARNING", "message": "CO2 levels elevated in Lobby: 1152ppm"}
+{"timestamp": "2025-05-16T18:49:53Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 15.42C | CO2: 1029ppm"}
+{"timestamp": "2025-05-16T18:49:53Z", "level": "WARNING", "message": "CO2 levels elevated in Lobby: 1029ppm"}
+{"timestamp": "2025-05-16T18:49:55Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 16.19C | CO2: 528ppm"}
+{"timestamp": "2025-05-16T18:49:57Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 20.63C | CO2: 773ppm"}
+{"timestamp": "2025-05-16T18:49:59Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 15.91C | CO2: 1122ppm"}
+{"timestamp": "2025-05-16T18:49:59Z", "level": "WARNING", "message": "CO2 levels elevated in Conference Room: 1122ppm"}
+{"timestamp": "2025-05-16T18:50:01Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 19.21C | CO2: 713ppm"}
+{"timestamp": "2025-05-16T18:50:03Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 18.14C | CO2: 674ppm"}
+{"timestamp": "2025-05-16T18:50:05Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 17.86C | CO2: 549ppm"}
+{"timestamp": "2025-05-16T18:50:07Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 21.89C | CO2: 413ppm"}
+{"timestamp": "2025-05-16T18:50:09Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 21.08C | CO2: 731ppm"}
+{"timestamp": "2025-05-16T18:50:11Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 17.02C | CO2: 997ppm"}
+{"timestamp": "2025-05-16T18:50:13Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 19.06C | CO2: 697ppm"}
+{"timestamp": "2025-05-16T18:50:15Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 20.47C | CO2: 951ppm"}
+{"timestamp": "2025-05-16T18:50:17Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 22.77C | CO2: 959ppm"}
+{"timestamp": "2025-05-16T18:50:19Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 17.01C | CO2: 506ppm"}
+{"timestamp": "2025-05-16T18:50:19Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 21.16C | CO2: 978ppm"}
+{"timestamp": "2025-05-16T18:50:21Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 16.56C | CO2: 920ppm"}
+{"timestamp": "2025-05-16T18:50:23Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 21.33C | CO2: 897ppm"}
+{"timestamp": "2025-05-16T18:50:25Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 19.0C | CO2: 421ppm"}
+{"timestamp": "2025-05-16T18:50:27Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 20.62C | CO2: 1019ppm"}
+{"timestamp": "2025-05-16T18:50:27Z", "level": "WARNING", "message": "CO2 levels elevated in Lab B: 1019ppm"}
+{"timestamp": "2025-05-16T18:50:29Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 15.94C | CO2: 540ppm"}
+{"timestamp": "2025-05-16T18:50:31Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 17.1C | CO2: 566ppm"}
+{"timestamp": "2025-05-16T18:50:33Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 16.37C | CO2: 1172ppm"}
+{"timestamp": "2025-05-16T18:50:33Z", "level": "WARNING", "message": "CO2 levels elevated in Lobby: 1172ppm"}
+{"timestamp": "2025-05-16T18:50:35Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 15.22C | CO2: 1122ppm"}
+{"timestamp": "2025-05-16T18:50:35Z", "level": "WARNING", "message": "CO2 levels elevated in Lab B: 1122ppm"}
+{"timestamp": "2025-05-16T18:50:37Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 19.08C | CO2: 520ppm"}
+{"timestamp": "2025-05-16T18:50:39Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 21.8C | CO2: 1094ppm"}
+{"timestamp": "2025-05-16T18:50:39Z", "level": "WARNING", "message": "CO2 levels elevated in Conference Room: 1094ppm"}
+{"timestamp": "2025-05-16T18:50:41Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 19.22C | CO2: 507ppm"}
+{"timestamp": "2025-05-16T18:50:43Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 22.64C | CO2: 850ppm"}
+{"timestamp": "2025-05-16T18:50:45Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 16.95C | CO2: 978ppm"}
+{"timestamp": "2025-05-16T18:50:47Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 17.48C | CO2: 601ppm"}
+{"timestamp": "2025-05-16T18:50:48Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 16.98C | CO2: 699ppm"}
+{"timestamp": "2025-05-16T18:50:50Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 15.3C | CO2: 654ppm"}
+{"timestamp": "2025-05-16T18:50:52Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 21.6C | CO2: 976ppm"}
+{"timestamp": "2025-05-16T18:53:15Z", "level": "INFO", "message": "Smart building logger started."}
+{"timestamp": "2025-05-16T18:53:15Z", "level": "DEBUG", "message": "Memory usage: 17.55 MB | Cache size: 0"}
+{"timestamp": "2025-05-16T18:53:15Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 21.6C | CO2: 1159ppm"}
+{"timestamp": "2025-05-16T18:53:15Z", "level": "WARNING", "message": "CO2 levels elevated in Conference Room: 1159ppm"}
+{"timestamp": "2025-05-16T18:53:17Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 16.06C | CO2: 986ppm"}
+{"timestamp": "2025-05-16T18:53:19Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 19.27C | CO2: 604ppm"}
+{"timestamp": "2025-05-16T18:53:21Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 18.18C | CO2: 568ppm"}
+{"timestamp": "2025-05-16T18:53:21Z", "level": "DEBUG", "message": "Cache size: 4"}
+{"timestamp": "2025-05-16T18:53:21Z", "level": "ERROR", "message": "Sensor failure in Lobby: Random sensor malfunction detected.", "exc_info": "Traceback (most recent call last):\n  File \"/home/lwe16/project/smart_building_logger/main.py\", line 54, in log_sensor_data\n    raise ValueError(\"Random sensor malfunction detected.\")\nValueError: Random sensor malfunction detected."}
+{"timestamp": "2025-05-16T18:53:23Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 19.09C | CO2: 652ppm"}
+{"timestamp": "2025-05-16T18:53:25Z", "level": "DEBUG", "message": "Memory usage: 17.55 MB | Cache size: 5"}
+{"timestamp": "2025-05-16T18:53:25Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 22.46C | CO2: 643ppm"}
+{"timestamp": "2025-05-16T18:53:27Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 19.82C | CO2: 537ppm"}
+{"timestamp": "2025-05-16T18:53:29Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 22.59C | CO2: 1003ppm"}
+{"timestamp": "2025-05-16T18:53:29Z", "level": "WARNING", "message": "CO2 levels elevated in Lobby: 1003ppm"}
+{"timestamp": "2025-05-16T18:53:31Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 20.3C | CO2: 849ppm"}
+{"timestamp": "2025-05-16T18:53:33Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 18.62C | CO2: 1071ppm"}
+{"timestamp": "2025-05-16T18:53:33Z", "level": "WARNING", "message": "CO2 levels elevated in Lab A: 1071ppm"}
+{"timestamp": "2025-05-16T18:53:35Z", "level": "DEBUG", "message": "Memory usage: 17.55 MB | Cache size: 10"}
+{"timestamp": "2025-05-16T18:53:35Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 16.52C | CO2: 563ppm"}
+{"timestamp": "2025-05-16T18:53:37Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 21.49C | CO2: 760ppm"}
+{"timestamp": "2025-05-16T18:53:38Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 15.93C | CO2: 788ppm"}
+{"timestamp": "2025-05-16T18:53:40Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 18.91C | CO2: 442ppm"}
+{"timestamp": "2025-05-16T18:53:42Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 18.55C | CO2: 588ppm"}
+{"timestamp": "2025-05-16T18:53:44Z", "level": "DEBUG", "message": "Memory usage: 17.55 MB | Cache size: 15"}
+{"timestamp": "2025-05-16T18:53:44Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 19.27C | CO2: 570ppm"}
+{"timestamp": "2025-05-16T18:53:46Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 21.79C | CO2: 716ppm"}
+{"timestamp": "2025-05-16T18:53:48Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 19.32C | CO2: 435ppm"}
+{"timestamp": "2025-05-16T18:53:50Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 18.85C | CO2: 507ppm"}
+{"timestamp": "2025-05-16T18:53:52Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 21.82C | CO2: 765ppm"}
+{"timestamp": "2025-05-16T18:53:54Z", "level": "DEBUG", "message": "Memory usage: 17.55 MB | Cache size: 20"}
+{"timestamp": "2025-05-16T18:53:54Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 20.59C | CO2: 464ppm"}
+{"timestamp": "2025-05-16T18:53:56Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 16.83C | CO2: 533ppm"}
+{"timestamp": "2025-05-16T18:53:58Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 19.23C | CO2: 620ppm"}
+{"timestamp": "2025-05-16T18:54:00Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 18.61C | CO2: 1081ppm"}
+{"timestamp": "2025-05-16T18:54:00Z", "level": "WARNING", "message": "CO2 levels elevated in Lab B: 1081ppm"}
+{"timestamp": "2025-05-16T18:54:02Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 19.09C | CO2: 526ppm"}
+{"timestamp": "2025-05-16T18:54:04Z", "level": "DEBUG", "message": "Memory usage: 17.55 MB | Cache size: 25"}
+{"timestamp": "2025-05-16T18:54:04Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 17.66C | CO2: 482ppm"}
+{"timestamp": "2025-05-16T18:54:06Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 19.42C | CO2: 801ppm"}
+{"timestamp": "2025-05-16T18:54:06Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 15.45C | CO2: 1181ppm"}
+{"timestamp": "2025-05-16T18:54:06Z", "level": "WARNING", "message": "CO2 levels elevated in Lobby: 1181ppm"}
+{"timestamp": "2025-05-16T18:54:08Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 15.18C | CO2: 786ppm"}
+{"timestamp": "2025-05-16T18:54:10Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 15.88C | CO2: 806ppm"}
+{"timestamp": "2025-05-16T18:54:12Z", "level": "DEBUG", "message": "Memory usage: 17.55 MB | Cache size: 30"}
+{"timestamp": "2025-05-16T18:54:12Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 16.2C | CO2: 1190ppm"}
+{"timestamp": "2025-05-16T18:54:12Z", "level": "WARNING", "message": "CO2 levels elevated in Lab B: 1190ppm"}
+{"timestamp": "2025-05-16T18:54:14Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 20.58C | CO2: 1114ppm"}
+{"timestamp": "2025-05-16T18:54:14Z", "level": "WARNING", "message": "CO2 levels elevated in Lobby: 1114ppm"}
+{"timestamp": "2025-05-16T18:54:16Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 16.99C | CO2: 700ppm"}
+{"timestamp": "2025-05-16T18:54:18Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 22.09C | CO2: 861ppm"}
+{"timestamp": "2025-05-16T18:54:18Z", "level": "DEBUG", "message": "Cache size: 34"}
+{"timestamp": "2025-05-16T18:54:18Z", "level": "ERROR", "message": "Sensor failure in Lab B: Random sensor malfunction detected.", "exc_info": "Traceback (most recent call last):\n  File \"/home/lwe16/project/smart_building_logger/main.py\", line 54, in log_sensor_data\n    raise ValueError(\"Random sensor malfunction detected.\")\nValueError: Random sensor malfunction detected."}
+{"timestamp": "2025-05-16T18:54:20Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 16.19C | CO2: 618ppm"}
+{"timestamp": "2025-05-16T18:54:22Z", "level": "DEBUG", "message": "Memory usage: 17.55 MB | Cache size: 35"}
+{"timestamp": "2025-05-16T18:54:22Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 17.68C | CO2: 415ppm"}
+{"timestamp": "2025-05-16T18:54:24Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 20.97C | CO2: 811ppm"}
+{"timestamp": "2025-05-16T18:54:26Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 16.8C | CO2: 821ppm"}
+{"timestamp": "2025-05-16T18:54:28Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 19.56C | CO2: 629ppm"}
+{"timestamp": "2025-05-16T18:54:30Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 21.79C | CO2: 1197ppm"}
+{"timestamp": "2025-05-16T18:54:30Z", "level": "WARNING", "message": "CO2 levels elevated in Lobby: 1197ppm"}
+{"timestamp": "2025-05-16T18:54:32Z", "level": "DEBUG", "message": "Memory usage: 17.55 MB | Cache size: 40"}
+{"timestamp": "2025-05-16T18:54:32Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 22.34C | CO2: 588ppm"}
+{"timestamp": "2025-05-16T18:54:34Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 18.34C | CO2: 1160ppm"}
+{"timestamp": "2025-05-16T18:54:34Z", "level": "WARNING", "message": "CO2 levels elevated in Lab A: 1160ppm"}
+{"timestamp": "2025-05-16T18:54:34Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 22.57C | CO2: 836ppm"}
+{"timestamp": "2025-05-16T18:54:36Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 21.46C | CO2: 428ppm"}
+{"timestamp": "2025-05-16T18:54:38Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 17.93C | CO2: 800ppm"}
+{"timestamp": "2025-05-16T18:54:40Z", "level": "DEBUG", "message": "Memory usage: 17.55 MB | Cache size: 45"}
+{"timestamp": "2025-05-16T18:54:40Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 19.72C | CO2: 1145ppm"}
+{"timestamp": "2025-05-16T18:54:40Z", "level": "WARNING", "message": "CO2 levels elevated in Conference Room: 1145ppm"}
+{"timestamp": "2025-05-16T18:54:42Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 17.23C | CO2: 437ppm"}
+{"timestamp": "2025-05-16T18:54:44Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 22.99C | CO2: 423ppm"}
+{"timestamp": "2025-05-16T18:54:46Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 20.09C | CO2: 1092ppm"}
+{"timestamp": "2025-05-16T18:54:46Z", "level": "WARNING", "message": "CO2 levels elevated in Lab A: 1092ppm"}
+{"timestamp": "2025-05-16T18:54:48Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 18.13C | CO2: 1080ppm"}
+{"timestamp": "2025-05-16T18:54:48Z", "level": "WARNING", "message": "CO2 levels elevated in Lobby: 1080ppm"}
+{"timestamp": "2025-05-16T18:54:48Z", "level": "DEBUG", "message": "Cache size: 50"}
+{"timestamp": "2025-05-16T18:54:48Z", "level": "ERROR", "message": "Sensor failure in Lobby: Random sensor malfunction detected.", "exc_info": "Traceback (most recent call last):\n  File \"/home/lwe16/project/smart_building_logger/main.py\", line 54, in log_sensor_data\n    raise ValueError(\"Random sensor malfunction detected.\")\nValueError: Random sensor malfunction detected."}
+{"timestamp": "2025-05-16T18:54:50Z", "level": "DEBUG", "message": "Memory usage: 17.55 MB | Cache size: 50"}
+{"timestamp": "2025-05-16T18:54:50Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 19.08C | CO2: 670ppm"}
+{"timestamp": "2025-05-16T18:54:52Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 21.52C | CO2: 938ppm"}
+{"timestamp": "2025-05-16T18:54:52Z", "level": "DEBUG", "message": "Cache size: 52"}
+{"timestamp": "2025-05-16T18:54:52Z", "level": "ERROR", "message": "Sensor failure in Conference Room: Random sensor malfunction detected.", "exc_info": "Traceback (most recent call last):\n  File \"/home/lwe16/project/smart_building_logger/main.py\", line 54, in log_sensor_data\n    raise ValueError(\"Random sensor malfunction detected.\")\nValueError: Random sensor malfunction detected."}
+{"timestamp": "2025-05-16T18:54:54Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 19.37C | CO2: 989ppm"}
+{"timestamp": "2025-05-16T18:54:56Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 19.57C | CO2: 505ppm"}
+{"timestamp": "2025-05-16T18:54:58Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 16.87C | CO2: 751ppm"}
+{"timestamp": "2025-05-16T18:55:00Z", "level": "DEBUG", "message": "Memory usage: 17.55 MB | Cache size: 55"}
+{"timestamp": "2025-05-16T18:55:00Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 15.87C | CO2: 1123ppm"}
+{"timestamp": "2025-05-16T18:55:00Z", "level": "WARNING", "message": "CO2 levels elevated in Lab B: 1123ppm"}
+{"timestamp": "2025-05-16T18:55:01Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 21.58C | CO2: 969ppm"}
+{"timestamp": "2025-05-16T18:55:03Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 17.5C | CO2: 521ppm"}
+{"timestamp": "2025-05-16T18:55:05Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 17.37C | CO2: 577ppm"}
+{"timestamp": "2025-05-16T18:55:07Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 21.39C | CO2: 663ppm"}
+{"timestamp": "2025-05-16T18:55:09Z", "level": "DEBUG", "message": "Memory usage: 17.55 MB | Cache size: 60"}
+{"timestamp": "2025-05-16T18:55:09Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 21.58C | CO2: 528ppm"}
+{"timestamp": "2025-05-16T18:55:11Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 16.76C | CO2: 766ppm"}
+{"timestamp": "2025-05-16T18:55:13Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 20.75C | CO2: 1047ppm"}
+{"timestamp": "2025-05-16T18:55:13Z", "level": "WARNING", "message": "CO2 levels elevated in Lobby: 1047ppm"}
+{"timestamp": "2025-05-16T18:55:15Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 19.52C | CO2: 548ppm"}
+{"timestamp": "2025-05-16T18:55:15Z", "level": "DEBUG", "message": "Cache size: 64"}
+{"timestamp": "2025-05-16T18:55:15Z", "level": "ERROR", "message": "Sensor failure in Lobby: Random sensor malfunction detected.", "exc_info": "Traceback (most recent call last):\n  File \"/home/lwe16/project/smart_building_logger/main.py\", line 54, in log_sensor_data\n    raise ValueError(\"Random sensor malfunction detected.\")\nValueError: Random sensor malfunction detected."}
+{"timestamp": "2025-05-16T18:55:17Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 16.58C | CO2: 837ppm"}
+{"timestamp": "2025-05-16T18:55:19Z", "level": "DEBUG", "message": "Memory usage: 17.55 MB | Cache size: 65"}
+{"timestamp": "2025-05-16T18:55:19Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 15.3C | CO2: 708ppm"}
+{"timestamp": "2025-05-16T18:55:21Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 21.39C | CO2: 797ppm"}
+{"timestamp": "2025-05-16T18:55:23Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 20.83C | CO2: 490ppm"}
+{"timestamp": "2025-05-16T18:55:25Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 19.41C | CO2: 1175ppm"}
+{"timestamp": "2025-05-16T18:55:25Z", "level": "WARNING", "message": "CO2 levels elevated in Lab A: 1175ppm"}
+{"timestamp": "2025-05-16T18:55:27Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 22.8C | CO2: 1055ppm"}
+{"timestamp": "2025-05-16T18:55:27Z", "level": "WARNING", "message": "CO2 levels elevated in Conference Room: 1055ppm"}
+{"timestamp": "2025-05-16T18:55:29Z", "level": "DEBUG", "message": "Memory usage: 17.55 MB | Cache size: 70"}
+{"timestamp": "2025-05-16T18:55:29Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 20.25C | CO2: 432ppm"}
+{"timestamp": "2025-05-16T18:55:29Z", "level": "INFO", "message": "Sensor data | Room: Lobby | Temperature: 21.47C | CO2: 674ppm"}
+{"timestamp": "2025-05-16T18:55:31Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 18.03C | CO2: 622ppm"}
+{"timestamp": "2025-05-16T18:55:33Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 22.45C | CO2: 1058ppm"}
+{"timestamp": "2025-05-16T18:55:33Z", "level": "WARNING", "message": "CO2 levels elevated in Lab A: 1058ppm"}
+{"timestamp": "2025-05-16T18:55:35Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 22.11C | CO2: 997ppm"}
+{"timestamp": "2025-05-16T18:55:37Z", "level": "DEBUG", "message": "Memory usage: 17.55 MB | Cache size: 75"}
+{"timestamp": "2025-05-16T18:55:37Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 16.9C | CO2: 899ppm"}
+{"timestamp": "2025-05-16T18:55:39Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 18.56C | CO2: 441ppm"}
+{"timestamp": "2025-05-16T18:55:41Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 15.51C | CO2: 805ppm"}
+{"timestamp": "2025-05-16T18:55:43Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 16.27C | CO2: 787ppm"}
+{"timestamp": "2025-05-16T18:55:45Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 21.33C | CO2: 867ppm"}
+{"timestamp": "2025-05-16T18:55:47Z", "level": "DEBUG", "message": "Memory usage: 17.55 MB | Cache size: 80"}
+{"timestamp": "2025-05-16T18:55:47Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 21.51C | CO2: 697ppm"}
+{"timestamp": "2025-05-16T18:55:49Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 19.85C | CO2: 772ppm"}
+{"timestamp": "2025-05-16T18:55:52Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 21.33C | CO2: 741ppm"}
+{"timestamp": "2025-05-16T18:55:54Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 18.34C | CO2: 692ppm"}
+{"timestamp": "2025-05-16T18:55:56Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 22.42C | CO2: 948ppm"}
+{"timestamp": "2025-05-16T18:55:58Z", "level": "DEBUG", "message": "Memory usage: 17.55 MB | Cache size: 85"}
+{"timestamp": "2025-05-16T18:55:58Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 19.59C | CO2: 1078ppm"}
+{"timestamp": "2025-05-16T18:55:58Z", "level": "WARNING", "message": "CO2 levels elevated in Lab A: 1078ppm"}
+{"timestamp": "2025-05-16T18:55:58Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 18.26C | CO2: 1114ppm"}
+{"timestamp": "2025-05-16T18:55:58Z", "level": "WARNING", "message": "CO2 levels elevated in Lab A: 1114ppm"}
+{"timestamp": "2025-05-16T18:56:00Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 20.11C | CO2: 742ppm"}
+{"timestamp": "2025-05-16T18:56:02Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 16.14C | CO2: 1050ppm"}
+{"timestamp": "2025-05-16T18:56:02Z", "level": "WARNING", "message": "CO2 levels elevated in Lab A: 1050ppm"}
+{"timestamp": "2025-05-16T18:56:04Z", "level": "INFO", "message": "Sensor data | Room: Conference Room | Temperature: 18.23C | CO2: 608ppm"}
+{"timestamp": "2025-05-16T18:56:06Z", "level": "DEBUG", "message": "Memory usage: 17.55 MB | Cache size: 90"}
+{"timestamp": "2025-05-16T18:56:06Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 21.38C | CO2: 648ppm"}
+{"timestamp": "2025-05-16T18:56:08Z", "level": "INFO", "message": "Sensor data | Room: Lab A | Temperature: 21.97C | CO2: 786ppm"}
+{"timestamp": "2025-05-16T18:56:10Z", "level": "INFO", "message": "Sensor data | Room: Lab B | Temperature: 19.47C | CO2: 1111ppm"}
+{"timestamp": "2025-05-16T18:56:10Z", "level": "WARNING", "message": "CO2 levels elevated in Lab B: 1111ppm"}
