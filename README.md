@@ -1,6 +1,6 @@
 # Smart Building Energy Logger
 Purpose: Simulates room temperature and CO2 sensor readings, logs them to a file
-Relevance: ESG / SDG 11 & 13 (smart, sustainable buildings)
+Relevance: ESG / SDG 11 & 13 (smart, sustainable buildings). More on SDG goals [see](https://sdgs.un.org/goals) 
 
 
 ### Development notes 
