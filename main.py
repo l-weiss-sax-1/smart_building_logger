@@ -44,7 +44,8 @@ def log_sensor_data():
             'room': room,
             'temperature': temperature,
             'co2': co2,
-            'timestamp': time.time()
+            'timestamp': time.time(),
+            'trace': 'X' * 1000  # adds ~1kb of trace data
         })
 
         # Inject artificial error occasionally
@@ -56,7 +57,7 @@ def log_sensor_data():
                 logger.error(f"Sensor failure in {room}: {str(e)}", exc_info=True)
 
         loop_counter += 1
-        time.sleep(2)
+        time.sleep(0.5)
 
 if __name__ == "__main__":
     try: 
