@@ -1,6 +1,8 @@
 import time
 import random
 import psutil
+import multiprocessing
+import os
 from logger import setup_logger
 
 
@@ -20,7 +22,7 @@ def log_memory_usage():
     logger.debug(f"Memory usage: {mem_info.rss / (1024 * 1024):.2f} MB | Cache size: {len(sensor_data_cache)}")
 
 
-def log_sensor_data():
+def log_sensor_data(instance_id):
     rooms = ['Lab A', 'Lab B', 'Conference Room', 'Lobby']
     loop_counter = 0
 
@@ -32,13 +34,13 @@ def log_sensor_data():
         temperature = read_temperature(room)
         co2 = read_co2_level(room)
 
-        logger.info(f"Sensor data | Room: {room} | Temperature: {temperature}C | CO2: {co2}ppm")
+        logger.info(f"[Instance {instance_id}] Sensor data | Room: {room} | Temperature: {temperature}C | CO2: {co2}ppm")
 
         if temperature > 24:
-            logger.debug(f"Temperature high in {room}: {temperature}C")
+            logger.debug(f"[Instance {instance_id}] Temperature high in {room}: {temperature}C")
 
         if co2 > 1000:
-            logger.warning(f"CO2 levels elevated in {room}: {co2}ppm")
+            logger.warning(f"[Instance {instance_id}] CO2 levels elevated in {room}: {co2}ppm")
 
         sensor_data_cache.append({
             'room': room,
@@ -50,18 +52,36 @@ def log_sensor_data():
 
         # Inject artificial error occasionally
         if random.random() < 0.05:
-            logger.debug(f"Cache size: {len(sensor_data_cache)}")
+            logger.debug(f"[Instance {instance_id}] Cache size: {len(sensor_data_cache)}")
             try:
                 raise ValueError("Random sensor malfunction detected.")
             except Exception as e:
-                logger.error(f"Sensor failure in {room}: {str(e)}", exc_info=True)
+                logger.error(f"[Instance {instance_id}] Sensor failure in {room}: {str(e)}", exc_info=True)
 
         loop_counter += 1
         time.sleep(0.5)
 
+
+def worker(instance_id):
+    # Optional: set CPU affinity (Linux only)
+    try:
+        cpu_core = instance_id % os.cpu_count()
+        os.sched_setaffinity(0, {cpu_core})
+        logger.info(f"[Instance {instance_id}] Bound to CPU core {cpu_core}")
+    except AttributeError:
+        # No affinity support on platform
+        pass
+
+    log_sensor_data(instance_id)
+
 if __name__ == "__main__":
-    try: 
-        logger.info("Smart building logger started.")
-        log_sensor_data()
-    except:
-        logger.debug("Program was exited unexpectedly..")
+    num_instances = 4  # or how many you want
+    processes = []
+
+    for i in range(num_instances):
+        p = multiprocessing.Process(target=worker, args=(i,), name=f"SensorInstance-{i}")
+        p.start()
+        processes.append(p)
+
+    for p in processes:
+        p.join()
