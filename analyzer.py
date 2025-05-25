@@ -3,7 +3,6 @@ class AnomalyDetector:
         self.last_temperatures = {}
 
     def detect(self, room, temperature, co2):
-        # TODO: students should log detection thresholds & outcomes
         anomalies = []
 
         if temperature > 26:

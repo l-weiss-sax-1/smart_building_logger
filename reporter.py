@@ -6,9 +6,6 @@ class ExternalReporter:
         self.failure_rate = failure_rate
 
     def report(self, payload):
-        # TODO: log the intent to report (INFO)
-        # TODO: log success/failure of external call
-        # TODO: include latency and any returned status
         start = time.time()
         time.sleep(random.uniform(0.05, 0.3))  # simulate network delay
 

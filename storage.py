@@ -9,20 +9,16 @@ class LocalStorage:
 
     def save(self, filename, data):
         path = os.path.join(self.directory, filename)
-        # TODO: log file write attempt and result
         try:
             with open(path, "w") as f:
                 json.dump(data, f)
         except Exception as e:
-            # TODO: log error with stacktrace
             raise
 
     def load(self, filename):
         path = os.path.join(self.directory, filename)
-        # TODO: log load attempt
         try:
             with open(path, "r") as f:
                 return json.load(f)
         except FileNotFoundError:
-            # TODO: log file not found warning
             return None
