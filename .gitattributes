@@ -1,0 +1,2 @@
+output.log filter=lfs diff=lfs merge=lfs -text
+output.log filter=lfs diff=lfs merge=lfs -text
